@@ -363,7 +363,8 @@ section#justify-content-section {
 }
 
 .justify-content-center-parent-container {
-  /* place your code here */
+  display: flex;
+  justify-content: center;
 }
 
 .justify-content-space-between-parent-container {
