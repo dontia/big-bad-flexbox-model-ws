@@ -368,7 +368,8 @@ section#justify-content-section {
 }
 
 .justify-content-space-between-parent-container {
-  /* place your code here */
+  display: flex;
+  justify-content: space-between;
 }
 
 .justify-content-space-around-parent-container {
