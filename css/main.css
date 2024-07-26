@@ -378,7 +378,8 @@ section#justify-content-section {
 }
 
 .justify-content-space-evenly-parent-container {
-  /* place your code here */
+  display: flex;
+  justify-content: space-evenly;
 }
 
 .justify-content-flex-start-parent-container {
