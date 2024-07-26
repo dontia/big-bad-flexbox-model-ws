@@ -388,7 +388,8 @@ section#justify-content-section {
 }
 
 .justify-content-flex-end-parent-container {
-  /* place your code here */
+  display: flex;
+  justify-content: flex-end;
 }
 
 /* end justify-content */
