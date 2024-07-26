@@ -373,7 +373,8 @@ section#justify-content-section {
 }
 
 .justify-content-space-around-parent-container {
-  /* place your code here */
+  display: flex;
+  justify-content: space-around;
 }
 
 .justify-content-space-evenly-parent-container {
