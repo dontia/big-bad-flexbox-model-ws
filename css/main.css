@@ -450,7 +450,8 @@ section#flex-wrap-section {
 }
 
 .flex-wrap-wrap-reverse-parent-container {
-  /* place your code here */
+  display: flex;
+  flex-wrap: wrap-reverse;
   justify-content: space-evenly;
 }
 
