@@ -413,7 +413,8 @@ section#align-items-section {
 }
 
 .align-items-baseline-parent-container {
-  /* place your code here */
+  display: flex;
+  align-items: baseline;
   justify-content: space-evenly;
 }
 
