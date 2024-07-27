@@ -434,7 +434,8 @@ section#align-items-section {
 
 /* flex-wrap */
 section#flex-wrap-section {
-  /* place your code here */
+  display: flex;
+  justify-content: center;
 }
 
 .flex-wrap-nowrap-parent-container {
