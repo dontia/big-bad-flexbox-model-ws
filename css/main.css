@@ -439,7 +439,7 @@ section#flex-wrap-section {
 }
 
 .flex-wrap-nowrap-parent-container {
-  /* place your code here */
+  display: flex;
   justify-content: space-evenly;
 }
 
