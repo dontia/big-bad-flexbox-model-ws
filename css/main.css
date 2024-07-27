@@ -466,7 +466,8 @@ section#align-content-section {
 /* Fixed heights have been set in the .wrap-content-parent-container code blocks */
 
 .align-content-center-parent-container {
-  /* place your code here */
+  display: flex;
+  align-content: center;
   justify-content: space-evenly;
   flex-wrap: wrap;
   height: 250px;
