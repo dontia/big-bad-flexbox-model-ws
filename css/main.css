@@ -425,7 +425,8 @@ section#align-items-section {
 }
 
 .align-items-flex-end-parent-container {
-  /* place your code here */
+  display: flex;
+  align-items: flex-end;
   justify-content: space-evenly;
 }
 
