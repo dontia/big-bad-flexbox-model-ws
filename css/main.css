@@ -419,7 +419,8 @@ section#align-items-section {
 }
 
 .align-items-flex-start-parent-container {
-  /* place your code here */
+  display: flex;
+  align-items: flex-start;
   justify-content: space-evenly;
 }
 
