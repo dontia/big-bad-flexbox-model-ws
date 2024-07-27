@@ -482,7 +482,8 @@ section#align-content-section {
 }
 
 .align-content-space-around-parent-container {
-  /* place your code here */
+  display: flex;
+  align-content: space-around;
   justify-content: space-evenly;
   flex-wrap: wrap;
 }
