@@ -459,7 +459,8 @@ section#flex-wrap-section {
 
 /* align-content */
 section#align-content-section {
-  /* place your code here */
+  display: flex;
+  justify-content: center;
 }
 
 /* Fixed heights have been set in the .wrap-content-parent-container code blocks */
