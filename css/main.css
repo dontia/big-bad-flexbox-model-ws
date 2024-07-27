@@ -489,7 +489,8 @@ section#align-content-section {
 }
 
 .align-content-space-evenly-parent-container {
-  /* place your code here */
+  display: flex;
+  align-content: space-evenly;
   justify-content: space-evenly;
   flex-wrap: wrap;
 }
