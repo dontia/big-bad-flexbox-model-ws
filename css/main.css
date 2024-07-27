@@ -510,7 +510,8 @@ section#align-content-section {
 }
 
 .align-content-flex-end-parent-container {
-  /* place your code here */
+  display: flex;
+  align-content: flex-end;
   justify-content: space-evenly;
   flex-wrap: wrap;
 }
