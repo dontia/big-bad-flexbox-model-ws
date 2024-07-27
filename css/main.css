@@ -496,7 +496,8 @@ section#align-content-section {
 }
 
 .align-content-stretch-parent-container {
-  /* place your code here */
+  display: flex;
+  align-content: stretch;
   justify-content: space-evenly;
   flex-wrap: wrap;
 }
