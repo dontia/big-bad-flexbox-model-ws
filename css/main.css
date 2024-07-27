@@ -444,7 +444,8 @@ section#flex-wrap-section {
 }
 
 .flex-wrap-wrap-parent-container {
-  /* place your code here */
+  display: flex;
+  flex-wrap: wrap;
   justify-content: space-evenly;
 }
 
