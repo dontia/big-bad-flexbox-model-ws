@@ -520,7 +520,8 @@ section#align-content-section {
 
 /* gap */
 section#gap-section {
-  /* place your code here */
+  display: flex;
+  justify-content: center;
 }
 
 .gap-parent-container {
