@@ -558,7 +558,8 @@ section#flex-direction-section {
 }
 
 .column-justify-content-space-between-parent-container {
-  /* place your code here */
+  display: flex;
+  flex-direction: column;
   justify-content: space-between;
   align-items: center;
 }
