@@ -531,8 +531,9 @@ section#gap-section {
 }
 
 .row-gap-parent-container {
-  /* display: flex; */
+  display: flex;
   flex-wrap: wrap;
+  row-gap: 10px;
 }
 
 .column-gap-parent-container {
