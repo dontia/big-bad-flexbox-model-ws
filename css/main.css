@@ -565,7 +565,8 @@ section#flex-direction-section {
 }
 
 .column-justify-content-space-around-parent-container {
-  /* place your code here */
+  display: flex;
+  flex-direction: column;
   justify-content: space-around;
   align-items: center;
 }
