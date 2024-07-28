@@ -537,8 +537,9 @@ section#gap-section {
 }
 
 .column-gap-parent-container {
-  /* place your code here */
+  display: flex;
   flex-wrap: wrap;
+  column-gap: 10px;
 }
 
 /* end gap */
