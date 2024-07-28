@@ -551,7 +551,8 @@ section#flex-direction-section {
 }
 
 .column-justify-content-center-parent-container {
-  /* place your code here */
+  display: flex;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
 }
