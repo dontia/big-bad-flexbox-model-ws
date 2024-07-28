@@ -546,7 +546,8 @@ section#gap-section {
 
 /* flex-direction section */
 section#flex-direction-section {
-  /* place your code here */
+  display: flex;
+  justify-content: center;
 }
 
 .column-justify-content-center-parent-container {
