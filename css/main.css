@@ -525,8 +525,9 @@ section#gap-section {
 }
 
 .gap-parent-container {
-  /* display: flex; */
+  display: flex;
   flex-wrap: wrap;
+  gap: 10px;
 }
 
 .row-gap-parent-container {
