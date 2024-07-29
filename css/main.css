@@ -601,7 +601,8 @@ section#flex-flow-section {
 }
 
 .flex-flow-row-nowrap-parent-container {
-  /* place your code here */
+  display: flex;
+  flex-flow: row nowrap;
   justify-content: space-evenly;
 }
 
