@@ -712,7 +712,8 @@ section#order-section {
 
 /* align-self */
 section#align-self-section {
-  /* place your code here */
+  display: flex;
+  justify-content: center;
 }
 
 .align-self-parent-container {
