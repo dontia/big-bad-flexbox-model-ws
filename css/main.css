@@ -619,7 +619,8 @@ section#flex-flow-section {
 }
 
 .flex-flow-column-nowrap-parent-container {
-  /* place your code here */
+  display: flex;
+  flex-flow: column nowrap;
   justify-content: space-evenly;
 }
 
