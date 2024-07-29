@@ -586,7 +586,8 @@ section#flex-direction-section {
 }
 
 .column-justify-content-flex-end-parent-container {
-  /* place your code here */
+  display: flex;
+  flex-direction: column;
   justify-content: flex-end;
   align-items: center;
 }
