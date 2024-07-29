@@ -631,7 +631,8 @@ section#flex-flow-section {
 }
 
 .flex-flow-column-wrap-reverse-parent-container {
-  /* place your code here */
+  display: flex;
+  flex-flow: column wrap-reverse;
   justify-content: space-evenly;
 }
 
