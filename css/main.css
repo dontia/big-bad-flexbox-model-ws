@@ -742,7 +742,7 @@ section#align-self-section {
 }
 
 .align-self-stretch-child-flex-item {
-  /* place your code here */
+  align-self: stretch;
 }
 
 /* end align-self */
