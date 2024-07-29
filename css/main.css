@@ -730,7 +730,7 @@ section#align-self-section {
 }
 
 .align-self-flex-end-child-flex-item {
-  /* place your code here */
+  align-self: flex-end;
 }
 
 .align-self-center-child-flex-item {
