@@ -684,7 +684,7 @@ section#order-section {
 }
 
 .order-parent-container {
-  /* Add display: flex; to make this div a parent flex container */
+  display: flex;
   justify-content: space-around;
 }
 
