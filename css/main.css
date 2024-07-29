@@ -734,7 +734,7 @@ section#align-self-section {
 }
 
 .align-self-center-child-flex-item {
-  /* place your code here */
+  align-self: center;
 }
 
 .align-self-baseline-child-flex-item {
