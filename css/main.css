@@ -726,7 +726,7 @@ section#align-self-section {
 }
 
 .align-self-flex-start-child-flex-item {
-  /* place your code here */
+  align-self: flex-start;
 }
 
 .align-self-flex-end-child-flex-item {
