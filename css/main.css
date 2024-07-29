@@ -738,7 +738,7 @@ section#align-self-section {
 }
 
 .align-self-baseline-child-flex-item {
-  /* place your code here */
+  align-self: baseline;
 }
 
 .align-self-stretch-child-flex-item {
