@@ -640,7 +640,8 @@ section#flex-flow-section {
 
 /* flex section */
 section#flex-content-section {
-  /* place your code here */
+  display: flex;
+  justify-content: center;
 }
 
 .flex-row-parent-container {
