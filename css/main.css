@@ -689,23 +689,23 @@ section#order-section {
 }
 
 .order-child-flex-item-1 {
-  /* place your code here */
+  order: 4;
 }
 
 .order-child-flex-item-2 {
-  /* place your code here */
+  order: 5;
 }
 
 .order-child-flex-item-3 {
-  /* place your code here */
+  order: 1;
 }
 
 .order-child-flex-item-4 {
-  /* place your code here */
+  order: 2;
 }
 
 .order-child-flex-item-5 {
-  /* place your code here */
+  order: 3;
 }
 
 /* end order */
