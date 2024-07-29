@@ -596,7 +596,8 @@ section#flex-direction-section {
 
 /* flex-flow section */
 section#flex-flow-section {
-  /* place your code here */
+  display: flex;
+  justify-content: center;
 }
 
 .flex-flow-row-nowrap-parent-container {
