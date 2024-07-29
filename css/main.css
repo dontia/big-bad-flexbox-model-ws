@@ -679,7 +679,8 @@ section#flex-content-section {
 
 /* order */
 section#order-section {
-  /* place your code here */
+  display: flex;
+  justify-content: center;
 }
 
 .order-parent-container {
