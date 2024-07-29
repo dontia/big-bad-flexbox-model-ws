@@ -722,7 +722,7 @@ section#align-self-section {
 }
 
 .align-self-auto-child-flex-item {
-  /* place your code here */
+  align-self: auto;
 }
 
 .align-self-flex-start-child-flex-item {
